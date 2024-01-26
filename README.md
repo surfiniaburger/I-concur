@@ -12,6 +12,7 @@ Traditional charity platforms often lack transparency, leading to a decline in t
 Timeline: The development process will span four months, divided into design, development, testing, and deployment phases.
 Wireframes and User Flow Diagrams: [Include visual representations]
 
+```
 App Container
 ├── DonationPage
 │   └── Donation Form
@@ -24,6 +25,7 @@ App Container
 │   └── Real-time Impact Updates
 └── DonationTracking
     └── Donation History
+```
 
 In this text wireframe:
 
@@ -35,7 +37,7 @@ ImpactUpdates displays real-time impact updates, which are subscribed to and rec
 
 DonationTracking renders the donation history fetched from the Concordium blockchain.
 
-
+```
 DonationProcess
 ├── Step 1: Choose Amount
 │   └── User selects the donation amount
@@ -47,7 +49,7 @@ DonationProcess
 │   └── User confirms the donation
 └── Step 5: Thank You
     └── Display a thank you message and confirmation of the donation
-
+```
 
 In this wireframe:
 
