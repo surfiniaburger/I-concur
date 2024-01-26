@@ -1,0 +1,10 @@
+.app-container {
+  display: flex;
+  flex-direction: column; /* Stacks items vertically */
+  align-items: center; /* Centers items horizontally */
+  justify-content: space-between; /* Distributes space between items */
+  height: 100vh; /* 100% of the viewport height */
+  padding: 20px; /* Add padding for spacing */
+}
+
+/* Add more styling for each individual component if needed */
